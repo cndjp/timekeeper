@@ -6,7 +6,9 @@ HTML5 and JavaScript based timer with notification chime for academic conference
 ```
 $ ./docker-run.sh
 ```
-で、ローカルのdockerで実行出来ます
+で、ローカルのdockerで実行出来ます。
+
+ま、普通にgit cloneしてファイルから直接html見ればいいかもね。
 
 ### How to Use?
 Access
