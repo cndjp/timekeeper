@@ -1,6 +1,13 @@
 # Time Keeper
 HTML5 and JavaScript based timer with notification chime for academic conference.
 
+### ローカルで実行
+
+```
+$ ./docker-run.sh
+```
+で、ローカルのdockerで実行出来ます
+
 ### How to Use?
 Access
 http://maruta.github.io/timekeeper/  
